@@ -8,4 +8,4 @@ and lastly analyze the grids with the corresponding data.
 
 4. The oecd_cities contains the GDP of cities. When no data for a city is existent, we extract the data from another api source mentioned in the notebook.
 
-5. Without a sufficient GPU the CPU of the system is automatically used for training the Autoencoder, please note that training make take a few days in my case a week.
+5. Without a sufficient GPU the CPU of the system is automatically used for training the Autoencoder, please note that training make take a few days in my case a week. Secondly at the end i had around 360 GB of data usage for the complete project, therefore bear that also in mind.
